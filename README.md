@@ -1,8 +1,8 @@
-# 📖 Documentação - EnergiaBem
+# 📖 Documentação - Energia Para Todos
 
 ## 🌟 Descrição do Projeto
 
-**EnergiaBem** é uma plataforma de crowdfunding especializada em projetos de energia renovável, conectando comunidades que precisam de energia limpa com pessoas e empresas dispostas a financiar essas iniciativas.
+**Energia Para Todos** é uma plataforma de crowdfunding especializada em projetos de energia renovável, conectando comunidades que precisam de energia limpa com pessoas e empresas dispostas a financiar essas iniciativas.
 
 ### Objetivos
 
